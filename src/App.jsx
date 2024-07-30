@@ -3,7 +3,7 @@ import AnologClock from "./Components/AnologClock/AnologClock";
 
 export default function App() {
   return (
-    <div className="body">
+    <div>
       <AnologClock />
     </div>
   );
