@@ -1,11 +1,9 @@
 import "./App.css";
 import AnologClock from "./Components/AnologClock/AnologClock";
-import { Clocksecond } from "./Components/ClockSecond/Clocksecond";
-
 function App() {
   return (
     <>
-      <Clocksecond />
+      <AnologClock />
     </>
   );
 }
